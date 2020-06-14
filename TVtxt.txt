@@ -1,0 +1,3024 @@
+LED TV User Manual
+LE22H067
+LE24H067
+
+TÉLÉVISION À HAUTE DÉFINITION
+
+INTERFACE MULTIMÉDIA HAUTE DÉFINITION
+
+1
+
+www.aoc.com
+2010 AOC. All Rights Reserved.
+
+This manual provides as an operational guide to user. All statements, technical information, and
+recommendations in this manual and in any guides or related documents are believed reliable, but the
+accuracy and completeness thereof are not guaranteed or warranted, and they are not intended to be,
+nor should they be understood to be, representations or warranties concerning the products described.
+
+1
+
+Table of Contents
+IMPORTANT INFORMATION ..............................................................................................................................................3
+WARNING ..............................................................................................................................................................................................................................................3
+CAUTION ...............................................................................................................................................................................................................................................3
+NOTIFICATION ......................................................................................................................................................................................................................................3
+
+IMPORTANT SAFETY INFORMATION...............................................................................................................................3
+USAGE INSTRUCTIONS .....................................................................................................................................................4
+Installation ...............................................................................................................................................................................................................................................4
+AC Power Cable ......................................................................................................................................................................................................................................4
+LCD/LED Screen .....................................................................................................................................................................................................................................5
+Wiring .....................................................................................................................................................................................................................................................5
+Electric Shock .........................................................................................................................................................................................................................................5
+Lightning Storms .....................................................................................................................................................................................................................................5
+When Not in Use ....................................................................................................................................................................................................................................5
+Overloading ............................................................................................................................................................................................................................................5
+Optional Equipment ................................................................................................................................................................................................................................6
+Small Accessories ..................................................................................................................................................................................................................................6
+Antennas .................................................................................................................................................................................................................................................6
+Batteries ..................................................................................................................................................................................................................................................6
+Cleaning ..................................................................................................................................................................................................................................................6
+Magnetic Influence ..................................................................................................................................................................................................................................6
+Sound .....................................................................................................................................................................................................................................................7
+Carrying the TV .......................................................................................................................................................................................................................................7
+Ventilation................................................................................................................................................................................................................................................7
+Moisture...................................................................................................................................................................................................................................................7
+Volume Adjustment .................................................................................................................................................................................................................................8
+Servicing..................................................................................................................................................................................................................................................8
+
+CONTENTS IN THE BOX ...................................................................................................................................................9
+CONTROLS & CONNECTIONS ....................................................................................................................................... 10
+SET-UP ............................................................................................................................................................................ 12
+Inserting Batteries into the Remote control ..........................................................................................................................................................................................12
+Attaching the Base ................................................................................................................................................................................................................................12
+Wall-Mounting ......................................................................................................................................................................................................................................12
+
+CONNECTING TV ............................................................................................................................................................ 13
+Cable System or VHF/UHF Antenna System .......................................................................................................................................................................................13
+High Definition Interface ........................................................................................................................................................................................................................13
+HDMI Connection ..................................................................................................................................................................................................................................13
+Component Signal Connection..............................................................................................................................................................................................................13
+Composite/ S-Video Signal Connection ................................................................................................................................................................................................14
+PC Connection ......................................................................................................................................................................................................................................14
+External sound Connection ...................................................................................................................................................................................................................14
+
+PC INPUT SIGNAL REFERENCE CHART ..................................................................................................................... 15
+VIDEO INPUT SIGNAL REFERENCE CHART ............................................................................................................... 15
+USING AOC TV................................................................................................................................................................. 16
+Turning the TV On and Off ....................................................................................................................................................................................................................16
+Initial Setting ..........................................................................................................................................................................................................................................16
+Viewing Mode Selection ........................................................................................................................................................................................................................21
+Switching Input Source..........................................................................................................................................................................................................................22
+OSD Manual Setting .............................................................................................................................................................................................................................23
+Changing Volume, Mute and Sound Mode ...........................................................................................................................................................................................25
+Adjust Video Setting ..............................................................................................................................................................................................................................26
+Adjust Audio Setting .............................................................................................................................................................................................................................27
+Adjust PC Setting ..................................................................................................................................................................................................................................28
+Feature Setup........................................................................................................................................................................................................................................29
+JPEG Viewer .........................................................................................................................................................................................................................................33
+
+TROUBLESHOOTING ..................................................................................................................................................... 34
+DIMENSIONS & SPECIFICATIONS ................................................................................................................................ 35
+INDEX................................................................................................................................................................................ 36
+
+2
+
+Energy Star
+
+Important Information
+WARNING
+CAUTION
+
+Please keep the factory default settings as shipped, in which the
+product can meet Energy Star requirements.
+
+RISK OF ELECTRIC SHOCK
+DO NOT OPEN
+
+ATTENTION
+
+Important Safety Information
+
+RISQUE DE CHOC ELECTRIQUE,
+NE PAS OUVRIR
+
+PRECAUCION
+
+1)
+2)
+3)
+4)
+5)
+6)
+7)
+
+Read these instructions.
+Keep these instructions.
+Heed all warnings.
+Follow all instructions.
+Do not use this apparatus near water.
+Clean only with a dry cloth.
+Do not block any the ventilation openings. Install in accordance
+with the manufacturer’s instructions.
+8) Do not install near any heat sources such as radiators, heat
+registers, stoves, or other apparatus (including amplifiers) that
+produce heat.
+9) Do not defeat the safety purpose of the polarized or groundingtype plug. A polarized plug has two blades with one wider
+than the other. A grounding type plug has two blades and third
+grounding prong. The wide blade or third prong is provided for
+your safety. If the provided plug does not fit into your outlet,
+consult an electrician for replacement of the obsolete outlet.
+10) Protect the power cord from being walked on or pinched
+particularly at plugs, convenience receptacles, and the point
+where they exit from the apparatus.
+11) Only use attachments/accessories specified by the
+manufacturer.
+12) Use only with a cart, stand, tripod, bracket, or table specified
+by the manufacturer, or sold with the apparatus. When a cart is
+used, use caution when moving the cart/apparatus combination
+to avoid injury from tip-over.
+
+RIESGO DE CHOQUE ELECTRICO
+NO ABRIR
+
+This symbol is intended to alert the user to the
+presence of insinuated “dangerous voltage”
+within the TV’s enclosure that may be of sufficient
+magnitude to constitute a risk of electric shock to
+persons.
+This symbol is intended to alert the user to the
+presence of important operating and maintenance
+(servicing) instructions in the literature accompanying
+the TV.
+To reduce the risk of fire or electric shock, do not expose this TV to
+rain or moisture, the TV shall not be exposed to dripping or splashing
+and no objects filled with liquids, such as vases, shall be placed on
+the TV.
+
+CAUTION
+To prevent electric shock, do not use this polarized AC plug with an
+extension cord, receptacle or other outlet unless the blades can be
+fully inserted to prevent blade exposure.
+Use the Wall-Mount bracket or TV stand which was recommended by
+AOC, and please consult your dealer for detailed information.
+Use with other Wall-Mount Bracket or TV stand may cause instability
+and possibly result in injury.
+
+NOTIFICATION
+
+13) Unplug this apparatus during lightning storms or when unused
+for long periods of time.
+14) Refer all servicing to qualified service personnel. Servicing is
+required when the apparatus has been damaged in any way,
+such as power-supply cord or plug is damaged, liquid has been
+spilled or objects have fallen into apparatus, the apparatus has
+been exposed to rain or moisture, does not operate normally, or
+has been dropped.
+15) If any liquid or solid object should fall inside the cabinet, unplug
+the TV immediately and have it checked by qualified service
+personnel before operating it further.
+16) Avoid operating the TV at temperatures below 32°F (0°C).
+17) If the TV is transported directly from a cold to a warm location,
+or if the room temperature changes suddenly, the picture may
+be blurred or show poor color due to moisture condensation. In
+this case, please wait a few hours to let the moisture evaporate
+before turning on the TV.
+18) The TV shall be connected to a mains socket outlet with a
+protective earthing connection.
+19) The mains plug or appliance coupler is used as the disconnect
+device, the disconnect device shall remain readily operable.
+20) CAUTION – These servicing instructions are for use by qualified
+service personnel only. To reduce the risk of electric shock,
+do not perform any servicing other than that contained in the
+operating instructions unless you are qualified to do so.
+
+FCC Class B Radio Frequency Interference Statement
+Warning: (For FCC CERTIFIED MODELS)
+This equipment has been tested and found to comply with the limits
+for a Class B digital device, pursuant to Part 15 of the FCC Rules.
+These limits are designed to provide reasonable protection against
+harmful interference in a residential installation. This equipment
+generates uses and can radiate radio frequency energy and, if not
+installed and used in accordance with the instructions, may cause
+harmful interference to radio communications.
+However, there is no guarantee that interference will not occur
+in a particular installation. If this equipment does cause harmful
+interference to radio or television reception, which can be determined
+by turning the equipment off and on, the user is encouraged to try to
+correct the interference by one or more of the following measures:
+ Reorient or relocate the receiving antenna.
+ Increase the separation between the equipment and receiver.
+
+ Connect the equipment into an outlet on a circuit different from
+that to which the receiver is connected.
+
+ Consult the dealer or an experienced radio/ TV technician for
+help.
+Pursuant to FCC regulations, you are cautioned that any changes
+or modifications not expressly approved in this manual could void
+your authority to operate this equipment.
+For details concerning safety precautions, see “Important Safety
+Instructions” and “Important Usage Instructions” below.
+
+3
+
+Wall-Mount
+
+Usage Instructions
+
+Wall-Mount installation requires the use of a Wall-Mount Bracket.
+When installing or removing the TV, using a Wall-Mount Bracket,
+be sure to use qualified contractors. If not properly secured during
+installation or removal from the Wall-Mount Bracket, the TV may fall
+and cause serious injury.
+
+Installation
+Placement
+It is recommended to watch the TV at a distance of 3 -7 times which
+of the screen height, and in moderate brightness. Watching the TV
+for too long or in a dark room may cause eye fatigue. To obtain a
+clear picture, do not expose the screen to direct illumination or direct
+sunlight. It is recommended to use spot lighting directed down from
+the ceiling or to cover the windows that face the screen with opaque
+drapery. It is desirable to install the TV in a room where the floor and
+walls are not of a reflective material.
+
+For use only with UL Listed Wall Mount Bracket with suitable weight/
+load. Please refer to page 35.
+Observe the following when installing the TV using a Wall-Mount
+bracket.
+1
+
+2
+
+3
+
+3h~7h
+h
+
+ Be sure to follow the operating instructions supplied with the WallMount bracket when installing the TV.
+
+ Be sure to attach the brackets supplied with the Wall-Mount
+bracket.
+
+To prevent the TV from toppling over and causing injury, take
+measurement to secure the TV to a wall or stand.
+
+ Don’t hang the TV from the ceiling. It may fall and cause serious
+injury.
+
+The TV should be installed near an easily accessible AC power
+outlet.
+
+AC Power Cable
+
+Observe the following in placing the TV. Otherwise the TV may fall
+from the stand or Wall-Mount, causing damage or serious injury.
+
+ Use the AC power cord specified by AOC and suitable for the
+
+ Place the TV on a stable, level surface.
+ Do not hang anything on the TV. Do not allow children to climb on
+
+voltage where you use it.
+
+ The plug is designed, for safety purposes, to fit into the wall outlet
+
+the TV.
+
+only one way. If you are unable to insert the plug fully into the
+outlet, contact your dealer.
+
+ Do not install the TV in places subject to extreme temperatures,
+
+ If you will not be using the TV for several days, disconnect the
+
+such as in direct sunlight, near a radiator, or near a heating vent
+or exposed to direct air conditioning.
+
+power by pulling the plug itself. Never pull on the cord.
+
+ Never place the TV in hot, oily, humidor excessively dusty places.
+ Do not install the TV where insects may enter.
+ Do not install the TV where it may be exposed to mechanical
+
+ When disconnecting AC power cord, the power cord should be
+easily accessible for disconnection.
+TV should be installed near an easily accessible power outlet. Do
+not use a poor fitting outlet. Insert the plug fully into the outlet. If it is
+loose, it may cause arcing and result in a fire. Contact your electrician
+to have the outlet changed.
+
+vibration.
+
+ Do not install the TV in a location where it may protrude, such as
+on or behind a pillar, or where you might bump your head on it.
+Otherwise, it may result in injury.
+
+Observe the followings to prevent the AC power cord from being
+damaged. If the AC power cord is damaged, it may result in a fire or
+an electric shock. Stop using it and ask your dealer or AOC service
+center to exchange it.
+
+Outdoor Use
+Do not install this TV outdoors. If the TV is exposed to rain, it may
+result in a fire or an electric shock. Do not expose the TV to direct
+sunlight, it may heat up and become damaged.
+
+ Do not place the TV where the power cord is subject to wear or
+abuse.
+
+ Do not pinch, bend, or twist the cord excessively. The core lines
+
+Vehicle, Ships and Other Vessels
+ Do not install this TV in a vehicle.
+ Bumping of the vehicle may cause the TV to fall down and cause
+injury.
+
+may be bared and cut, causing a short-circuit, and resulting in a
+fire or an electric shock.
+
+ Do not install this TV in a ship or vessel. If the TV is exposed to
+seawater, it may cause a fire or damage the TV.
+Medical institutions
+ Do not place this TV in a place where medical equipment is in
+use.
+ The interference may cause a malfunction of both TV and the
+medical equipment.
+
+
+
+
+
+
+
+
+
+
+
+Attachments
+Do not use attachments not recommended by the manufacturer, as
+they may cause hazards.
+
+4
+
+Do not convert or damage the power cord.
+Do not allow anything to rest on or roll over the power cord.
+Do not move the TV with the power cord plugged in.
+Keep the power cord away from heat sources.
+To unplug power cord, disconnect it from the wall outlet first.
+Be sure to grasp the plug when disconnecting the power cord.
+Do not pull the power cord.
+Do not use the supplied AC power cord on any other equipment.
+Use only an original AOC AC power cord, not other brands.
+
+LCD/LED Screen
+
+Electric Shock
+
+ Although the LCD/LED screen is made with high-precision
+
+Do not touch the AC power cord or the TV with a wet hand. If you
+plug/unplug the AC power cord from the TV with a wet hand, it may
+cause electric shock.
+
+technology and has effective pixels of 99.99% or more, black dots
+or bright points of light (red, blue, or green) may appear constantly
+on the LCD/LED screen. This is a structural property of the LCD/
+LED panel and is not a malfunction.
+ The LCD/LED screen is made with high-precision technology and
+to achieve a high level of performance and picture quality, this
+TV’s backlight setting is set to maximize the brightness of the TV.
+However, uneven brightness may be observed when the HDTV
+is viewed in a dark ambient without an input source or a blank
+screen. This condition is normal and not a malfunction of the TV.
+Changing the Picture mode, Backlight setting, enabling the Light
+Sensor, or turning on the Power management will improve this
+condition.
+
+ Do not expose the LCD/LED screen surface to direct sunlight.
+
+Lightning Storms
+
+Doing so may damage the LCD/LED panel.
+
+For added protection for this TV during a lightning storm, or when it
+is left unattended and unused for long periods of time, unplug it from
+the wall outlet and disconnect the antenna. This will prevent damage
+to the TV due to lightning and power line surges.
+
+ Do not push or scratch the LCD/LED screen, or place objects on
+top of the TV. The image may be uneven or the LCD/LED panel
+may be damaged.
+
+ If the TV is used in a cold place, a smear may occur in the picture
+or the picture may become dark. This does not indicate a failure.
+These phenomena improve as the temperature rises.
+
+ Ghosting may occur when still pictures are displayed continuously.
+It should disappear after a few moments.
+
+ The screen and cabinet get warm when the TV is in use. This is
+not a malfunction.
+
+ Avoid spraying insect repellent with volatile material on the
+screen.
+
+ Avoid prolonged contact with rubber or plastic material.
+
+When Not in Use
+Broken Pieces
+
+If you will not be using the TV set for several days, the TV set should
+be disconnected from the AC power outlet for environmental and
+safety reasons. The TV set is not disconnected from the AC power
+source when the TV set is switched off. To disconnect the TV set
+completely, pull the plug from the AC power outlet.
+
+Do not throw anything at the TV. The screen glass may break by the
+impact and cause serious injury.
+If the surface of the TV cracks, do not touch it until you have
+unplugged the AC power cord. Otherwise electric shock may result.
+
+Overloading
+
+Handling of broken glass and liquid crystal leakage
+
+This TV set is designed to operate on a 120 V AC supply only. Take
+care not to connect too many appliances to the same AC power
+outlet as this could result in a fire or an electric shock.
+
+If the LCD/LED panel gets damaged, crystalline liquid leakage may
+occur, or scattered broken glass may result. Do not touch broken
+glass or crystalline liquid which is toxic, with bare hands as cuts,
+poisoning or skin irritation may occur. Also, do not let glass fragments
+or leaked crystalline liquid get into your eyes or mouth. Should either
+contact your eyes or mouth, rinse the contacted area thoroughly with
+water and consult your doctor.
+
+Wiring
+When connecting cables, be sure to unplug the AC power cord for
+your safety. Take care not to catch your feet on the cables. It may
+damage the TV set.
+
+5
+
+Optional Equipment
+
+Batteries
+
+Do not install optional equipment too close to the TV set. Keep
+optional equipment at least 11.875 inches (30 cm) away from the TV
+set. If a VCR is installed in front of the TV set or beside the TV set,
+the picture may become distorted. Picture distortion and/or noisy
+sound may occur if the TV set is positioned in close proximity to any
+equipment emitting electromagnetic radiation.
+
+ Do not dispose of batteries in a fire.
+ Do not short circuit, disassemble or overheat the batteries.
+ Danger of explosion if battery is incorrectly replaced. Replace only
+with the same or equivalent type.
+
+ The batteries (batteries installed) shall not be exposed to
+excessive heat such as sunshine, fire or the like.
+Disposal of used batteries
+To preserve our environment, dispose of used batteries according to
+your local laws or regulations.
+
+Small Accessories
+Keep small accessories out of children’s reach.
+
+Cleaning
+Cleaning the AC power plug
+Unplug the AC power plug and clean it regularly. If the plug is
+covered with dust and it picks up moisture, its insulation may
+deteriorate and result in a fire.
+Cleaning the screen surface/ cabinet of the TV set
+ Unplug the AC power cord to avoid electric shock when cleaning.
+ Clean the cabinet of the TV with a dry soft cloth. To remove dust
+from the screen, wipe it gently with a soft cloth. Stubborn stains
+may be removed with a cloth slightly dampened with a solution
+of mild soap and warm water. Never use strong solvents such as
+thinner or benzine for cleaning.
+
+Antennas
+Outdoor antenna grounding
+If an outdoor antenna is installed, follow the precautions below.
+An outdoor antenna system should not be located in the vicinity of
+overhead power lines or other electric light or power circuits, or where
+it can come in contact with such power lines or circuits.
+WHEN INSTALLING AN OUTDOOR ANTENNA SYSTEM,
+EXTREME CARE SHOULD BE TAKEN TO KEEP FROM
+CONTACTING SUCH POWER LINES OR CIRCUITS AS CONTACT
+WITH THEM IS ALMOST INVARIABLY FATAL.
+Be sure the antenna system is grounded so as to provide some
+protection against voltage surges and built-up static charges.
+Section 810 of the National Electrical Code (NEC) in USA and
+Section 54 of the Canadian Electrical Code in Canada provides
+information with respect to proper grounding of the mast and
+supporting structure, grounding of the lead-in wire to an antenna
+discharge unit, size of grounding conductors, location of antenna
+discharge unit, connection to grounding electrodes, and requirements
+for the grounding electrode.
+Antenna grounding according to the National Electrical Code,
+ANSI/NFPA 70.
+
+ If using a chemically pretreated cloth, please follow the instruction
+provided on the package.
+
+ The ventilation holes can accumulate dust over time. To ensure
+proper ventilation, we recommend removing the dust periodically
+(once a month) using a vacuum cleaner.
+
+Magnetic Influence
+This TV contains a strong magnet in the speaker unit that generates
+a magnetic field. Keep any items susceptible to magnetic fields away
+from the speaker.
+
+Antenna lead-in wire
+Antenna lead-in wire
+
+Ground clamps
+
+Electric service
+equipment
+Ground clamps
+
+Antenna discharge unit
+
+Grounding conductors
+Power service grounding
+electrode system
+
+6
+
+Install on the wall
+
+Sound
+
+11 7/8 inches
+30 cm
+
+If a snapping or popping sound from the TV is continuous or frequent
+while the TV is operating, unplug the TV and consult your dealer or
+service technician. It is normal for some TV’s to make occasional
+snapping or popping sounds, particularly when being turned on or off.
+
+?
+
+4 inches
+10 cm
+
+ding~
+
+4 inches
+10 cm
+
+Pong~
+
+Leave at least this space
+around the set.
+4 inches
+10 cm
+
+Installed with stand
+
+Carrying the TV
+
+11 7/8 inches
+30 cm
+
+Carry the TV in the specified manner
+To avoid dropping the TV and causing serious injury, be sure to
+follow these guidelines:
+
+ Before carrying the TV, disconnect all cables.
+ Carrying the large size TV requires two or more people.
+ When you carry the TV, place your hand as illustrated and hold it
+
+4 inches
+10 cm
+
+4 inches
+10 cm
+
+securely. Do not put stress on the LCD/LED panel.
+
+Leave at least this space
+around the set.
+
+4 inches
+10 cm
+
+ When lifting or moving the TV, hold it firmly from the bottom. Place
+your palm directly under the panel.
+
+Never install the TV set where Air circulation is blocked.
+Objects and ventilation holes
+Never push objects of any kind into the TV through the cabinet slots
+as they may touch dangerous voltage points or short out parts that
+could result in a fire or an electric shock. Do not place any objects on
+the TV.
+
+ When carrying, do not subject the TV to shocks or vibration, or
+
+Moisture
+
+excessive force.
+
+Moisture and flammable objects
+ The TV must not be exposed to dripping or splashing. Do not
+place objects filled with liquids, such as vases, on the TV.
+ Do not use power-line operated TV sets near water— for
+example, near a bathtub, washbowl, kitchen sink, or laundry tub,
+in a wet basement, or near a swimming pool, etc. It may result in a
+fire or an electric shock.
+
+Ventilation
+The slots and openings in the TV are provided for necessary
+ventilation. To ensure reliable operation of the TV and to protect it
+from overheating, these slots and openings must never be blocked or
+covered.
+Unless proper ventilation is provided, the TV may gather dust and get
+dirty. For proper ventilation, observe the following:
+
+ Do not let this TV get wet. Never spill liquid of any kind on the TV.
+
+
+
+
+
+
+ To prevent fire, keep flammable objects or open flame (e.g.
+
+If any liquid or solid object does fall through, do not operate the
+TV. It may result in electric shock or damage to the TV. Have it
+checked immediately by qualified personnel.
+
+Do not install the TV face up, down or sideways.
+Do not install the TV turned over or upside down.
+Never cover the slots and openings with a cloth or other materials.
+
+candles) away from the TV.
+
+Never block the slots and openings by placing the TV on a bed,
+sofa, rug or other similar surface.
+
+ Never place the TV in a confined space, such as a bookcase or
+built-in cabinet, unless proper ventilation is provided.
+Leave some space around the TV set as shown below. Otherwise,
+air-circulation may be inadequate and will cause overheating, which
+may cause a fire or damage to the TV set.
+
+7
+
+Dolby License Notice and Trademark
+Acknowledgement
+
+Volume Adjustment
+Adjust the volume so as not to trouble your neighbors. Sound
+carries very easily at night. Therefore, closing the windows or using
+headphones is suggested.
+When using headphones, adjust the volume so as to avoid excessive
+levels, as hearing damage may result.
+
+Manufactured under license from Dolby Laboratories.
+Dolby and the double-D symbol are trademarks of Dolby
+Laboratories.
+
+Servicing
+
+Canadian notice
+
+Do not attempt to service the TV by yourself since opening the
+cabinet may expose you to dangerous voltage or other hazards.
+Refer all servicing to qualified service personnel.
+
+This Class B digital apparatus meets all requirements of the
+Canadian Interference Causing Equipment Regulations.
+
+Replacement Parts
+When replacement parts are required, be sure the service technician
+certifies in writing that he/she has used replacement parts specified
+by the manufacturer that have the same characteristics as the
+original parts.
+Unauthorized substitutions may result in a fire, an electric shock or
+other hazards.
+
+Safety Check
+Upon completion of any service or repairs to the TV, ask the service
+technician to perform routine safety checks (as specified by the
+manufacturer) to determine that the TV is in safe operating condition,
+and to so certify. Ask a qualified service technician to dispose of the
+TV.
+Thank you for purchasing this AOC high-definition television. The
+quality of the image you see on your AOC TV is only as good as the
+quality of the signal it receives. To experience the stunning detail of
+your new AOC TV, you need access to HD programming. Your AOC
+TV can receive and display HD programming from:
+
+
+
+
+
+
+Over-the-air broadcasting via HD-quality antenna
+HD cable subscription
+HD satellite subscription
+Blu-ray Disc™ player or other external equipment
+
+Contact your cable or satellite provider for information on upgrading
+to HD programming.
+
+Mobile telephone warning
+To avoid disturbances in picture and sound, malfunctioning of your
+TV or even damage to the TV, keep away your mobile telephone
+from the TV.
+
+End of life directive
+We are paying a lot of attention to produce environmental friendly in
+green focal areas.
+Your new receiver contains materials, which can be recycled and
+reused.
+At the end of its life, specialized companies can dismantle the
+discarded receiver to concentrate the reusable materials and to
+minimize the amount of materials to be disposed of.
+Please ensure you dispose of your old receiver according to local
+regulations.
+
+8
+
+Contents in the Box
+After unpack the TV box, please check the TV and all accessories are well presented and undamaged.
+
+AOC HDTV
+
+AAA Battery x 2
+
+Base
+
+Remote Control
+
+User
+Manual
+
+QSG
+
+User Manual
+
+Quick Start Guide
+
+Warranty
+Card
+
+Warranty Card
+
+9
+
+Controls & Connections
+Volume +
+Volume -
+
+Channel
+
+1.
+
+VOL +
+
+Press to increase the sound volume level.
+
+2.
+
+VOL -
+
+Press to decrease the sound volume level.
+
+3.
+
+CH ▲
+
+Press to select the next higher program number.
+
+4.
+
+CH ▼
+
+Press to select the next lower program number.
+
+5.
+
+MENU
+
+Press to open or exit the OSD (on-screen display)
+menu.
+
+6.
+
+INPUT
+
+Press to select the input source.
+
+Channel
+
+Menu
+Input
+
+Speaker
+
+Power Indicator
+
+Speaker
+
+Power
+IR Receiver
+
+7.
+
+PC In
+
+Press to turn on / off (standby) the TV set.
+
+VHF/UHF Cable In
+USB
+
+SPDIF
+
+Power
+
+USB/Service
+
+HDMI 2
+
+Headphone Jack
+
+HDMI 2
+
+HDMI 1
+
+AV in L-Audio-R
+
+S-Video
+
+Component In
+
+HDMI 1
+
+Item
+
+Description
+
+Headphone Jack
+
+Connects to your headphones. If your headphones do not match the jack, use a suitable plug adapter (not
+supplied). While headphones are connected, the TV speakers are muted.
+
+SPDIF*
+(Optical Digital Audio Out)
+
+Connect an external sound system with optical cable to the SPDIF out jack on the back of your TV to the SPDIF
+IN jack and to the amplifier or receiver.
+
+AV IN (AV/S-VIDEO) /
+L-AUDIO-R
+
+Connects to the COMPOSITE VIDEO output or S-Video output jack from your video equipment that has
+COMPOSITE or S-Video VIDEO, and audio (L/R) jacks can connect audio source to your TV. When connected,
+S-Video will take priority over Composite video (Yellow jack).
+
+USB/Service
+
+Insert USB storage device to the USB 2.0 port to view photos (JPEG only).
+
+S-VIDEO Input
+
+Connects to the S-VIDEO output jack on your camcorder or other video equipment that has S-VIDEO. The
+S-VIDEO provides better picture quality than composite video. The audio input connector was shared with
+COMPOSITE VIDEO IN.
+HDMI (High-Definition Multimedia Interface) provides an uncompressed, all-digital audio/video interface between
+this TV and any HDMI-equipped audio/video equipment, such as a set-top box, DVD player, Blu-ray Disc player,
+A/V receiver as well as PC. HDMI supports enhanced, or high-definition video, plus digital audio.
+If the equipment has a DVI jack and not an HDMI jack, connect the DVI jack to the HDMI IN (with DVI-to-HDMI
+cable or adapter) jack, and connect the audio jack to the PC AUDIO IN jacks of HDMI IN.
+
+HDMI IN 1/ 2
+DVI-to-HDMI cable
+
+DVI-to-HDMI adapter
+
+HDMI connection is necessary to view 480i, 480p, 720p, 1080i and 1080p formats.
+Be sure to use only an HDMI cable that bears the HDMI logo.
+
+PC IN (RGB/AUDIO)
+
+Connects to a personal computer’s video output connector using HD15-HD15 cable (analog RGB). Can also be
+connected to other analog RGB equipment. See “PC Input Signal Reference Chart” on page 15 for the signals that
+can be displayed.
+For some Apple Macintosh computers, it may be necessary to use an adapter (not supplied). If this is the case,
+connect the adapter to the computer before connecting the HD15-HD15 cable.
+If the picture is noisy, flickering or not clear, adjust Phase and Pitch of Screen settings.
+
+Component IN
+(1080p/1080i/
+720p/480p/480i)/
+L-AUDIO-R
+
+Connects to your TV’s component video (YPbPr ) and audio (L/R) jacks. Component video provides better picture
+quality than the S-VIDEO or the composite video connections. Component video (YPbPr) connection is necessary
+to view 480i, 480p, 720p, 1080i and 1080p formats.
+
+VHF/UHF/Cable Input
+
+RF (Radio Frequency or modulated signal design used as the carrier for television broadcasts.) input that
+connects to your Cable or VHF/UHF antenna.
+
+* SPDIF
+Sony/Philips Digital Interconnect Format. S/PDIF is mostly used to transmit compressed multichannel audio from a media player to an amplifier/receiver.
+
+10
+
+Buttons located at the right side of the TV will operate the same as these buttons on the remote control.
+Button
+
+COMP
+
+Description
+
+POWER
+
+Press to turn on and off the TV.
+
+TV/ AV/
+COMP/ HDMI/
+PC
+
+Press TV, AV, COMP or HDMI/PC separately to select the input directly.
+
+0-9
+
+Press 0-9 to select a channel; the channel changes after two seconds.
+
+PRE CH
+
+Press to go back to the previous TV channel or exit from the OSD when
+displaying menu items and settings.
+
+VOL +/-
+
+Press to adjust the volume.
+
+SOURCE
+
+Press to display the list of External Inputs. Press repeatedly to toggle
+through the inputs.
+
+MUTE
+
+Press to mute the sound. Press again or press VOL+ to restore the sound.
+
+CH +/-
+
+Press to scan through channels. To scan quickly through channels, press
+and hold down either + or -.
+
+PR
+
+PRE!CH
+
+COMP
+
+PRE!CH
+
+/
+
+/
+
+/
+
+OK
+
+Move left, up, down or right to select the available option or adjust the
+setting in OSD menu.
+Press to confirm the selected item or setting.
+Press to display or close a list of convenient functions and menu
+shortcuts. The OSD (On Screen Display) menu items vary based on input
+and content.
+Press once to display the information pertaining to the channel and/or
+program when available. The OSD (On Screen Display) will time out in a
+few seconds or press again to immediately turn off the display.
+
+M EN U
+/ Exit
+
+MENU/EXIT
+
+Display
+
+DISPLAY
+
+Add Fav
+
+Add Fav
+
+Press to add channel to Favorite List.
+
+Fav
+
+FAV Channel
+
+Press to display the Favorite Channel List.
+
+EPG
+
+EPG
+
+Display
+
+Add Fav
+
+Play/Pause
+
+M EN U
+/ Exit
+
+Fav
+
+Stop
+Wide
+
+EPG
+
+Wide
+
+WIDE
+
+MTS
+
+Photo
+
+Press to display digital program guide in TV mode. It may show current
+channel name, program name, time, rating, and summaries, depending on
+the information provided by the broadcaster.
+Execute “Play/Pause” when you control HDMI interface device via HDMI
+CEC.
+Execute “Stop” when you control HDMI interface device via HDMI CEC.
+Press repeatedly to step through the Wide Mode settings: Normal Mode,
+Wide mode, Zoom 1 Mode, Zoom 2 Mode, and HDMI PC mode (Only
+available in HDMI Input).
+Press to display the USB thumbnail browser. This is activated only if the
+USB storage device is plugged into the USB hub.
+
+CC
+
+Freeze
+MTS
+
+MTS*
+SLEEP***
+
+PICTURE
+
+AUDIO
+V-Chip
+CC
+
+CC
+
+Press to freeze the displayed picture.
+Press to activate the NTSC TV sounds, such as: Stereo, SAP** or Mono
+tone and languages of DTV.
+Press repeatedly to cycle through the available sleep timer, 5, 10, 15, 30,
+60, 90, 120 180 and 240 minutes to turn off TV automatically.
+Press repeatedly to cycle through the available picture modes: Vivid,
+Standard, Eco, Movie and Personal. The picture modes can also be
+accessed in the Picture settings. For details, see section- Adjust Picture
+Setting.
+Press repeatedly to cycle through the available sound modes: Music,
+Speech and Personal. The sound modes can also be accessed in the
+Sound settings. For details, see section- Adjust Audio Setting.
+Press to lock Parental Control temporarily. (After setting the restricted
+table of MPAA, Motion Picture Association of America or TV Rating.)
+Press repeatedly to change the closed caption type as CC Off /
+CC On / CC On With Mute.
+
+* Multichannel Television Sound (MTS)
+The broadcasting standard, which allows stereo sounds to be transmitted with the TV picture.
+
+** Second Audio Program (SAP)
+Another or additional audio channel provided for in the Multichannel Television Sound (MTS) broadcast standard. A monaural sound track included within
+the recorded or video signal (usually containing a second language translation for the displayed program).
+
+*** Sleep
+You can set a time period for which the TV will be turned off automatically.
+
+11
+
+Set-Up
+Inserting Batteries into the Remote control
+Insert two size AAA batteries (supplied) to the diagram inside the battery compartment of the remote control.
+
+Attaching the Base
+IMPORTANT: The Base of the AOC HDTV must be assembled prior to usage.
+1. Place the TV set facing down on a soft and flat surface (blanket, foam, cloth, etc.) to prevent any
+damage to TV set.
+2. Carefully align and insert the Base to the stand
+3.
+
+Gently push the Base towards the TV until the locking mechanism locks into place.
+
+4.
+
+Please refer to the “Important Usage instructions” in the above.
+
+Wall-Mounting
+Please install on a wall by using a Wall-Mount Bracket (sold separately). Before mounting the TV on a wall, the Table-Top Stand must be
+removed from the TV. Follow the simple steps below to remove the Table-Top Stand:
+1.
+2.
+
+Disconnect all the cables from the TV.
+Gently lay the TV, face down, onto a level and stable surface covered with a thick and soft cloth. Make sure the Table-Top Stand is hanging
+over the edge.
+
+3.
+
+Remove the screws as shown in the illustration for your model and pull the Table-Top Stand out.
+
+4.
+
+Do not remove any other screws from the TV.
+
+5.
+
+Do not remove the Table-Top Stand for any reason other than to Wall-Mount the TV.
+
+6.
+
+Be sure to store the removed screws and Table-Top Stand in a safe place until you are ready to reattach the Table-Top Stand. Keep the
+screws away from small children.
+
+7.
+
+For bracket installation, refer to the instruction guide provided by the Wall-Mount Bracket model for your TV. Sufficient expertise is required in
+installing this TV, especially to determine the strength of the wall for withstanding the TV’s weight.
+
+8.
+
+For product protection and safety reasons, AOC strongly recommends that you use the Wall-Mount Bracket model designed for your TV and
+the Wall-Mounting of your TV should be performed by AOC dealer or licensed contractor.
+
+1
+
+2
+
+Note: 100 mm x 100 mm wall mount bracket & M4 screws (Screws length: 10mm and pitch: 0.7mm) are not included.
+Please contact your local distributor.
+
+12
+
+3
+
+Connecting TV
+Cable System or VHF/UHF Antenna System
+You can enjoy standard-definition and high-definition digital programming (if available in your area), along with standard-definition analog
+programming.
+This TV is capable of receiving unscrambled digital programming for both cable and external VHF/UHF antenna.
+It is strongly recommended that you connect the antenna/cable input using a 75-ohm coaxial cable to receive optimum picture quality. A 300-ohm
+twin lead cable can be easily affected by radio frequency interference, resulting in signal degradation.
+
+Cable or VHF/UHF(or VHF only)
+75-ohm coaxial
+cable (supplled)
+
+Rear of TV
+VHF/UHF input
+
+TUNER
+
+High Definition Interface
+You can enjoy high-definition programming by subscribing to a high-definition cable service or a high-definition satellite service. For the best
+possible picture, make sure you connect this equipment to your TV via the HDMI or component video (with audio) input on the back of your TV.
+
+HDMI Connection
+HDMI
+
+HDMI IN 1 / 2
+HDMI
+HD Multimedia Interface
+HDMI
+
+HDMI
+
+If the equipment has a DVI jack and not an HDMI jack, connect the DVI jack to the HDMI IN (with DVI-to-HDMI cable or adapter) jack and
+connect the audio jack to the PC AUDIO IN jacks.
+
+Component Signal Connection
+L
+
+R
+
+Y
+
+Pb
+
+Pr
+
+L
+
+Component IN
+Y Pb Pr
+Component Video Input
+
+Audio
+
+13
+
+R
+
+Y
+
+Pb
+
+Pr
+
+Composite/ S-Video Signal Connection
+AV IN
+AV
+
+AV IN
+
+S-VIDEO
+
+S-VIDEO
+
+S-VIDEO
+
+Audio
+
+S-VIDEO
+
+PC Connection
+Use the TV as a monitor for your PC shown below with the HD15 to HD15 connection. This TV can also be connected to a PC with DVI or HDMI
+output. (Refer to the separate Quick Setup Guide.)
+
+VGA IN
+PC
+
+ Connect the PC IN jack to the PC using the HD15- HD15 cable with ferrite core (analog RGB) and audio cable.
+ If the PC is connected to the TV and no signal has been input from the PC for more than 30 seconds, the TV enters the standby mode
+automatically.
+
+External sound Connection
+ Turn off the AOC HDTV and Sound Device and connect the Audio Out jack or SPDIF jack on the rear of AOC HDTV.
+ Connect an audio cable to the audio output connectors associated with the Audio Out (R/L) and SPDIF on the TV Set and connect the other
+end to the audio connectors associated with the Audio input of the External Sound.
+
+SPDIF IN
+SPDIF
+SONY Philips Digital Interface
+
+14
+
+PC Input Signal Reference Chart
+After connecting the PC to the TV, set the output signal from the PC according to the chart below.
+Presetting PC Mode
+Standard
+
+Resolution
+
+Horizontal Frequency (kHz)
+
+Vertical Frequency (Hz)
+
+VESA
+VESA
+VESA
+VESA
+VESA
+VESA
+VESA
+VESA
+VESA
+
+640 x 480
+800 x 600
+1024 x 768
+1280 x 720
+1280 x 768
+1280 x 1024
+1440 x 900
+1680 x 1050
+1920 x 1080
+
+31.469
+37.879
+48.363
+44.772
+47.396
+63.981
+55.469
+65.29
+67.5
+
+59.94
+60.317
+60.004
+59.855
+59.995
+60.02
+59.901
+59.954
+60
+
+Video Input Signal Reference Chart
+After connecting the video input to the TV, set the output signal from the video input according to the chart below.
+Presetting Video Mode
+Standard
+
+Resolution
+
+Horizontal Frequency (kHz)
+
+Vertical Frequency (Hz)
+
+SD
+SD
+HD
+HD
+FHD
+
+480i
+480P
+720P
+1080i
+1080p
+
+15.734
+31.5
+45
+33.75
+67.5
+
+60
+60
+60
+60
+60
+
+Standard Definition Interface
+You can also enjoy traditional program by using a DVD player or VCR Player. Connect this equipment to your TV via the Composite Input or
+S-Video Input on the back of your TV.
+Refer to the Quick Setup Guide (supplied) when connecting other equipment to your TV.
+
+15
+
+USING AOC TV
+Turning the TV On and Off
+You can turn on the TV by using power switch button on the TV set or on the remote controller.
+
+Initial Wizard (1/8)
+Please select language...
+
+English
+Spanish
+French
+
+Next
+
+Cancel
+
+Navigate:
+
+Select: OK
+
+Initial Setting
+When you first start up this AOC HDTV set, please follow the Initial Wizard to your AOC HDTV.
+
+1. Selecting Language.
+Select your preferred language: English, Spanish or French
+
+1
+
+Press ▲/▼ to select “Language”, and press OK.
+
+2. Selecting Time mode.
+
+Initial Wizard (2/8)
+Please select Time mode...
+
+Auto
+
+Manual
+
+Previous
+
+Cancel
+
+Navigate:
+
+1
+
+Select: OK
+
+Press ▲/▼ to select “Auto” or “Manual” for Time Mode.
+
+16
+
+A. Selecting Time Zone.
+Inital Wizard (3/8)
+Please select Time Zone...
+NST
+
+MST
+
+AST
+
+PST
+
+EST
+CST
+
+AKST
+HST
+
+Previous
+
+Cancel
+
+Navigate:
+
+1
+
+Select: OK
+
+Press ▲/▼/◄/► to select “Time Zone” which you located then press OK.
+
+17
+
+B. Manually enter the time.
+Initial Wizard (3/8)
+Please enter the time...
+Year
+
+2010
+
+Month
+
+Jan
+
+Day
+
+1
+
+Time
+
+12:02 AM
+
+OK
+Previous
+
+Cancel
+
+Navigate:
+
+Select: OK
+
+Year
+1
+
+Press ▲/▼ to select “Year” then press OK.
+
+2
+
+Press ◄/► to adjust then press OK.
+
+Month
+1
+
+Press ▲/▼to select “Month” then press OK.
+
+2
+
+Press ◄/► to adjust then press OK.
+
+Day
+1
+
+Press ▲/▼ to select “Day” then press OK.
+
+2
+
+Press ◄/► to adjust then press OK.
+
+Time
+1
+
+Press ▲/▼ to select “Time” then press OK.
+
+2
+
+Press ◄/► to select “Hour”, “Minute” or “AM/PM” then press OK.
+
+3
+
+Press ▲/▼ to adjust then press OK.
+
+18
+
+3. Select “Eco” mode or “Vivid” mode.
+When you turn on TV in the first time, you can choose “Eco” mode to decrease backlight level to save the power consumption or “Vivid” mode to
+enhance picture contrast and sharpness.
+
+Initial Wizard (4/8)
+Please select Eco/Vivid mode...
+
+Eco
+
+Vivid
+
+Previous
+
+Cancel
+
+Navigate:
+
+1
+
+Select: ENTER
+
+Press ▲/▼ to select “Eco” or “Vivid” for display setting.
+
+4. Select TV RF tuning band.
+
+Initial Wizard (5/8)
+Please select TV RF tuning band...
+
+Air
+
+Cable
+
+Previous
+
+Cancel
+
+Navigate:
+
+1
+
+Select: OK
+
+Press ▲/▼ to select “Air” or “Cable” for RF Tuning setting. Press OK will execute channel searching.
+
+19
+
+5. Search TV channel
+
+Initial Wizard (6/8)
+Please check if RF cable is
+connected properly...
+
+Start
+
+Previous
+
+Cancel
+
+Navigate:
+
+1
+
+Select: OK
+
+Press ▲/▼ to select “Previous” or “Cancel” for RF Tuning setting. Press OK will execute channel searching.
+
+Initial Wizard (7/8)
+Searching, Please wait...
+Searching Analog CH
+
+CH 100
+
+Analog Channels Found
+
+66
+
+Digital Channels Found
+
+55
+
+100%
+
+Cancel
+Navigate:
+
+1
+
+Select: OK
+
+Press ▲/▼ to select “Cancel” for RF Tuning setting. Press OK will execute cancel the channel searching.
+
+Initial Wizard (8/8)
+
+Congratulations, TV Setup is done.
+
+Exit: Cancel
+
+1
+
+M EN U
+/ Exit
+
+Press MENU/EXIT to exit initial setting wizard.
+
+20
+
+Viewing Mode Selection
+For TV input with SD programs
+
+Normal Mode
+
+Zoom1 Mode
+
+Suitable for viewing conventional 4:3 programs in
+their normal format.
+
+Use these aspect modes to zoom in and to reduce
+the black bars.
+
+Wide Mode
+
+Zoom2 Mode
+
+The original content in this mode has to ﬁll the
+entire screen of the display.
+
+Use these aspect modes to zoom in and to reduce
+the black bars.
+
+For TV input with HD programs
+
+Normal Mode
+
+Zoom1 Mode
+
+Suitable for viewing conventional 4:3 programs in
+their normal format.
+
+Use these aspect modes to zoom in and to reduce
+the black bars.
+
+Wide Mode
+
+Zoom2 Mode
+
+The original content in this mode has to ﬁll the
+entire screen of the display.
+
+Use these aspect modes to zoom in and to reduce
+the black bars.
+
+Note:
+HDMI PC Mode (Only available in HDMI input)
+Displays an image with the same number of pixels on the screen without over scan.
+
+21
+
+Switching Input Source
+On AOC TV, you can choose signal source on the remote control directly, or press “Source” to choose the signal source on the display menu.
+1.
+
+When choosing signal source on the remote control directly: Press the following keys to switch input source.
+
+COMP
+
+COMP
+
+PRE!CH
+
+Add Fav
+
+Display
+
+Fav
+
+M EN U
+/ Exit
+
+Wide
+
+EPG
+
+MTS
+
+CC
+
+2.
+
+When using “Source” key to choose signal source:
+
+COMP
+
+Source List
+0. TV
+1. AV
+
+PRE!CH
+
+2. Component
+3. VGA
+4. HDMI 1
+
+Add Fav
+
+Display
+
+Fav
+
+M EN U
+/ Exit
+
+5. HDMI 2
+Move
+
+OK
+
+Select
+
+MENU
+/Exit
+
+Exit
+Wide
+
+EPG
+
+MTS
+
+CC
+
+1
+
+Press Source to call out source menu.
+
+2
+
+Press ▲/▼ to select input source: TV, AV, Component, VGA, HDMI1/ 2.
+
+3
+
+Press OK to enter.
+
+22
+
+OSD Manual Setting
+Channel Search
+
+CHANNEL
+Cable
+
+Tuning Band
+Channel Strength
+Auto CH Search
+Add on CH Search
+Channels List
+Channel Labels
+FAV Channel Setting
+Move
+
+1
+
+M EN U
+/ Exit
+
+OK Select
+
+Return
+
+MENU
+/Exit
+
+Exit
+
+Press MENU to call out MENU.
+
+2
+
+Press ▲/▼ to select “Channel”
+
+, and press OK.
+
+3
+
+Press ▲/▼ to select “Auto CH Search”, and then press OK.
+
+The submenu of CHANNEL menu in TV mode shows as below.
+1) Tuning Band: Select TV source signal from the Air (antenna) or Cable (CATV).
+2) Channel Strength: Show the intensity of the received DTV signal.
+3) Auto CH Search: Automatically scan all NTSC / ATSC TV channels and then store in the channel table. In channel scan process, the OSD
+can display the number of channels which had been found.
+4) Add on CH Search: Add channels which are new found.
+5) Channels List: Show the Channels List. User can edit (add/delete) the channel numbers.
+6) Channel Labels: Show the NTSC /ATSC TV Channel Labels menu for user modifying channel labels specifically.
+7) FAV Channel Settings: Show the Favorite Channel List. User can edit (add/delete) the favorite channels.
+
+23
+
+Changing Channel/Flashback
+On AOC TV, you can change channel on the remote control directly, or press CH ▲/▼ on the side of the TV to choose the channel.
+
+1.
+
+Press the number keys directly to change the channel.
+
+PR
+
+
+2.
+
+Press the CH to change channel.
+
+3.
+
+Press PRE CH to go to the previous channel.
+
+PRE!CH
+
+24
+
+Changing Volume, Mute and Sound Mode
+
+1.
+
+Press VOL to change the volume.
+
+2.
+
+Press MUTE to mute the TV.
+
+3.
+
+Press Audio to change surround mode: Music, Speech and Personal.
+
+For more details, please refer to “Adjust Audio Setting”.
+
+25
+
+Adjust Video Setting
+VIDEO
+Eco
+
+Picture Mode
+Brightness
+
+48
+
+Contrast
+
+48
+
+Sharpness
+
+50
+
+Color
+
+63
+
+Tint
+
+0
+
+Color Temp
+Move
+
+1
+
+M EN U
+/ Exit
+
+Cool
+
+OK Select
+
+Return
+
+MENU
+/Exit
+
+Exit
+
+Press MENU/EXIT to call out MENU.
+
+2
+
+Press ▲/▼ to select “VIDEO”
+
+3
+
+Press ▲/▼ to select Video Settings: Picture Mode, Brightness, Contrast, Sharpness, Color, Tint, Color Temp, Noise
+Reduction, Adaptive Contrast, DCR, Backlight, Aspect Ratio, Preset, and press OK to enter.
+
+4
+
+Press ◄/► to adjust.
+
+5
+
+M EN U
+/ Exit
+
+Picture Setting Items
+
+, and press OK.
+
+Press MENU/EXIT again to exit.
+
+Brightness
+Contrast
+Sharpness
+
+Description
+Vivid
+For Enhances picture contrast and sharpness.
+Standard
+For standard picture settings. Recommended for home entertainment.
+Eco
+Decrease backlight level to save the power consumption.
+Movie
+For viewing film-based content. Most suitable for viewing in a theater-like environment.
+Personal
+The user can set their favorite setting.
+Preset for all inputs can also be accessed by pressing Picture on the remote control to directly toggle the modes.
+Brightens or darkens the picture.
+Increases or decreases picture contrast.
+Sharpens or softens the picture.
+
+Color
+
+Increases or decreases color saturation.
+
+Tint
+
+Increases or decreases the green tones.
+
+Picture Mode
+
+Color Temp.
+
+Noise Reduction
+
+Cool
+
+Gives the white colors a bluish tint.
+
+Warm
+
+Gives the white colors a reddish tint.
+
+Normal
+Gives the white color a nature tint.
+Reduces the noise level of connected equipment, and the VHF/UHF/CABLE input.
+Gives four NR effect degrees, such as: Low, Mid, High and Off. The default setting is Mid.
+
+Adaptive Contrast
+
+Choose On or Off to adjust the gamma after analyzing the input signal automatically.
+
+DCR
+
+Dynamic Contrast Ratio (DCR) auto adjusts the backlight of the screen.
+
+Backlight
+
+Backlight strength adjustment, the tuning range is 0 ~ 30.
+
+Aspect Ratio
+
+Choose the display aspect.
+
+Preset
+
+Restore the default video settings.
+
+26
+
+Adjust Audio Setting
+AUDIO
+Personal
+
+Sound Mode
+Bass
+
+32
+
+Treble
+
+32
+
+Balance
+
+0
+
+Audio Source
+
+Stereo
+
+SPDIF
+
+PCM
+On
+
+Speaker
+Move
+
+1
+
+M EN U
+/ Exit
+
+OK Select
+
+Return
+
+MENU
+/Exit
+
+Exit
+
+Press MENU/EXIT to call out MENU.
+
+2
+
+Press ▲/▼ to select “Audio”
+
+3
+
+Press ▲/▼ to select Audio Settings˖Sound Mode, Bass, Treble, Balance, Audio Source, Audio Language, SPDIF,
+Speaker, Multi Language, AVL, Preset, and press OK to enter.
+
+4
+
+Press ◄/► to adjust.
+
+5
+
+M EN U
+/ Exit
+
+Audio Setting Items
+
+Sound Mode
+
+, and press OK.
+
+Press MENU/EXIT again to exit.
+
+Description
+Music: Enhances treble and bass.
+Speech: Enhances treble and keep bass in middle.
+Personal: Adjust sound mode as personal favorite.
+Sound Mode can also be accessed by pressing Audio on the remote control.
+
+Bass
+
+Increases or decreases lower-pitched sounds.
+
+Treble
+
+Increases or decreases higher-pitched sounds.
+
+Balance
+
+Emphasizes left or right speaker balance.
+
+Audio Source
+
+Select the audio source from Mono, Stereo, or SAP. (This function works in ATV only.)
+
+Audio Language
+
+SPDIF
+
+Speaker
+Multi Language
+AVL
+Preset
+
+Change the audio language setting on ATSC TV programs. The number of the supported audio languages
+(English / Français / Español)
+Digital audio output format. Select from RAW and PCM. The difference between SPDIF PCM or RAW:
+SPDIF PCM: It will only output as a PCM 44.1Khz digital no matter what the recording is in the media.
+SPDIF RAW: It will output the stream as it is digitally recorded, i.e. DTS recording as a DTS or a Dolby as a Dolby, or a
+native 48 or 96Khz.
+Choose to turn on / off the TV internal speaker. The digital audio output signals and earphone output signals will not be
+turned off even though the TV speaker is off. The default setting is On.
+To choose the multi-language in DTV.
+Enable or disable Automatic Volume Level.
+Restore the default audio settings.
+
+27
+
+Adjust PC Setting
+This setting is only available in PC mode.
+
+VGA
+H-Position
+
+17
+
+V-Position
+
+13
+
+Clock
+
+8
+
+Phase
+
+2
+
+Auto Adjust
+Preset
+
+Move
+
+1
+
+M EN U
+/ Exit
+
+OK
+
+Select
+
+Return
+
+MENU
+/Exit
+
+Exit
+
+Press MENU/EXIT to call out MENU.
+
+2
+
+Press ▲/▼ to select “PC”
+
+3
+
+Press ▲/▼ to select PC Settings: H. Position, V. Position, Clock, Phase, Auto Adjust, Preset, and press OK to
+enter.
+
+4
+
+Press ◄/► to adjust.
+
+5
+
+M EN U
+/ Exit
+
+, and press OK.
+
+Press MENU/EXIT again to exit.
+
+PC Setting
+H. Position
+
+Description
+Adjusts the Horizontal positioning.
+
+V. Position
+
+Adjusts the Vertical positioning.
+
+Clock
+
+Adjusts the Clock frequency on VGA signal.
+
+Phase
+
+Adjusts the Phase frequency on VGA signal.
+Auto sync. PC timing to fit full screen display.
+For detail supported timing, please refer PC Input Signal Reference Chart on page 15.
+Restore the default PC settings.
+
+Auto Adjust
+Preset
+
+28
+
+Feature Setup
+FEATURE
+English
+
+Menu Language
+Time
+Password Setting
+Parental Control
+Closed Captions
+
+Off
+
+Analog Captions
+
+CC1
+SERVICE1
+
+Digital Captions
+
+Move
+
+1
+
+M EN U
+/ Exit
+
+OK Select
+
+Return
+
+MENU
+/Exit
+
+Exit
+
+Press MENU/EXIT to call out MENU.
+
+2
+
+Press ▲/▼ to select “Setup”
+
+3
+
+Press ▲/▼ to select Setting items: Menu language, Time, Password Setting, Parental Control, Closed Captions,
+Analog Caption, etc. and press OK to enter.
+
+4
+
+Press ◄/► to adjust.
+
+5
+
+M EN U
+/ Exit
+
+, and press OK.
+
+Press MENU/EXIT again to exit.
+
+The submenu of FEATURE mode in TV mode shows as below.
+1.
+
+Menu Language: Adjust the language setting for this TV unit. (English / Français / Español)
+
+1
+
+2.
+
+Press ◄/► to select: English / Français / Español, and press OK.
+
+Time: Set current time. The sub-menu includes Time Mode, Time Zone, and Daylight Savings.
+FEATURE
+
+Time
+Time Mode
+
+Auto
+
+Time Zone
+
+HST
+On
+
+Daylight Savings
+
+2010
+
+Year
+
+Jan
+
+Month
+
+1
+
+Day
+
+12:02 AM
+
+Time
+Move
+
+1
+
+OK Select
+
+Return
+
+MENU
+/Exit
+
+Exit
+
+Scroll to Time and press OK to enter the menu for Time adjustment.
+
+29
+
+2
+
+Press ◄/► to adjust Auto or Manual setting for Time Mode and press OK.
+
+3
+
+Press ▲/▼ to select “Time Zone”. Press ◄/► to adjust Time Zone which you located and press OK.
+
+4
+
+Press ▲/▼ to select “Daylight Savings”. Press ◄/► to on/off Daylight Savings and press OK.
+
+5
+
+For manually Time Mode setting, press ▲/▼ to select “Year”, “Month”, “Day”, and “Time”. Press ◄/► to adjust
+“Year”, “Month”, “Day”, and “Time”, and press OK.
+
+M EN U
+/ Exit
+
+6
+
+Press MENU/EXIT again to exit.
+
+3.
+
+Password Setting:
+Change the 4-numeral parental control password. Three steps are required for changing the password:
+Step 1:
+Enter Old Password
+
+Press Number Key to enter the old password.
+PR
+
+Step 2:
+Enter New Password
+
+Press Number Key to enter the New password.
+PR
+
+Step 3:
+Confirm New Password
+
+Press Number Key to enter the New password.
+PR
+
+Note: This item is only available in TV, Composite and S-Video source modes. The default password is [0 0 0 0].
+
+30
+
+4.
+
+Parental Control:
+FEATURE
+
+Parental Control
+Button Lock
+
+Off
+
+Block Unrated TV
+
+Off
+
+USA Parental Locks
+Canadian Parental Locks
+Open V-Chip
+
+Move
+
+OK Select
+
+Return
+
+MENU
+/Exit
+
+Exit
+
+Provide the Parental Control (V-chip) function setting. Before entering the Parental Control sub-menu, user has to key in the password first.
+Enter the Parental Lock item, then the user can modify the restricted table about MPAA or TV Rating respectively. While exiting the sub-menu,
+the parental control function is working. The inhibitive channels or source signals can be unlock through pressing the V-CHIP key on the remote
+control and then key in the correct password.
+Note: This feature is only available in TV, Composite and S-Video source modes. (The default password is: 0 0 0 0.)
+Parental Control:
+Description
+Select On or Off to lock or unlock the control buttons on the side panel of the TV. When this function enables, the
+Button Lock
+control buttons on your TV will be locked and TV will be controlled by remote control only.
+Block Unrated TV
+When Block Unrated TV is set to on, your TV will block unrated program.
+USA Parental Locks
+Set the parental control level by MPAA or TV Rating.
+Canadian Parental Locks
+Set the parental control level by English Rating or French Rating.
+Open V-Chip is an advanced V-Chip rating system for digital channels that are received. The rating table will be
+Open V-Chip
+updated by downloading the RRT5 data for blocking.
+5.
+
+Closed Captions: Select a closed caption option. (Off / On / With Mute)
+
+6.
+
+Analog Captions: Select an analog caption option. (CC 1-4 / TEXT 1-4)
+
+7.
+
+Digital Captions: Select a digital caption option. (Service 1-6)
+
+8.
+
+Digital Captions Setup: Provide numerous options for setting the digital closed caption style in the sub-menu.
+
+Items
+Style
+Size
+Font
+Text Color
+Text Opacity
+Background Color
+Background Opacity
+Edge Effect
+Edge Color
+
+Description
+Set to Automatic or Customer mode. If Custom mode is selected, user can modify the detail styles described
+below. The setting result will be shown immediately on the bottom of the submenu OSD.
+Note: This feature is only available in Digital TV (ATSC) mode.
+Digital closed caption font size, which can be set as Automatic, Small, Normal, or Large.
+Digital closed caption font style, which can be chosen as Automatic, Default, or Font 1 ~ 7.
+Automatic / White / Red / Green / Blue / Yellow / Magenta / Cyan / Black.
+Automatic / Solid / Flashing / Transparent / Translucent.
+Automatic / Black / White/ Red / Green / Blue / Yellow / Magenta / Cyan.
+Automatic / Solid / Flashing / Transparent / Translucent.
+Automatic / None / Raised / Depressed / Uniform / Left Shadow / Right Shadow.
+Automatic / Red / Green / Blue / Yellow / Magenta / Cyan / Black / White.
+
+31
+
+9.
+
+HDMI CEC: Set the HDMI Control to ON and this feature will enable the HDMI CEC function and your AOC HDTV will discover and
+communicate automatically with other compatible HDMI interfaced devices. Select ODD to disable this option.
+FEATURE
+
+HDMI CEC
+HDMI Control
+
+On
+
+Device Auto Off
+
+Off
+
+TV Auto On
+
+Off
+
+Root Menu
+Device List
+
+Move
+
+1
+
+M EN U
+/ Exit
+
+OK Select
+
+Return
+
+MENU
+/Exit
+
+Exit
+
+Press MENU/EXIT to call out MENU.
+
+2
+
+Press ▲/▼ to select “Setup”
+
+3
+
+Press ▲/▼ to select Setting item: HDMI Control and press OK to enter.
+
+4
+
+Press ▲/▼ to select Setting item: HDMI Control, Device Auto Off, TV Auto On, Device Menu Control, Device
+List, etc. and press OK to enter.
+
+5
+
+Press ◄/► to adjust.
+
+6
+
+M EN U
+/ Exit
+
+Items
+HDMI Control
+Device Auto Off
+TV Auto On
+Root Menu
+Device List
+
+, and press OK.
+
+Press MENU/EXIT again to exit.
+
+Description
+Enable or Disable HDMI Control.
+Enable of Disable Device Auto Off.
+When you turn off the TV, all active CEC enabled devices on the HDMI inputs will go to Standby.
+Enable or Disable TV Auto On
+Pressing the “Play” button on the CEC enabled device will commend the device to play, turn the TV on and the
+HDMI input, that the device is connected to, will become the active input source for the TV.
+Accesses the menu of connected HDMI CEC-compatible device with your TV remote control.
+List the device which enabled the HDMI CEC function.
+
+Note: Not all devices with an HDMI connection have the CEC feature. Consult the instruction manuals for the device you are trying to control to
+confirm whether or not CEC is available.
+10. Input Labels: User can edit the input labels.
+11. Component Setting: This option only shows and is available in component mode, which provides fine tuning component display.
+[Phase] – Adjust Picture Phase to reduce Horizontal-Line noise. The tuning range is from 0 to 100.
+[Preset] – Restore the default component setting values.
+12. MultiMedia Menu: This option shows the settings for the photo play function from USB storage device.
+Note:
+a. File number is limited to 1000 files
+b. This model is only supported JPEG format.
+c. JPEG sizes are limited up to 15360 x 8640.
+13. Reset to Default: Restore all the default settings.
+
+32
+
+JPEG Viewer
+After plugging USB storage device into USB port, Multimedia List menu will display, or press “Photo” on the remote control after you plugging
+USB storage device.
+
+Image Delay
+
+Normal
+
+Start Slide Show
+\..
+
+Filename
+
+Filename
+
+Filename
+
+Filename
+
+Filename
+
+Rotate Photo
+Back To Upper Folder
+Back To Root Folder
+Exit
+
+1
+
+Press OK to enter JPEG Viewer.
+
+2
+
+Press ▲/▼/◄/►to select, and press OK to enlarge the selected photo (orange frame) browser.
+
+3
+
+M EN U
+/ Exit
+
+Press MENU/EXIT to display control menu.
+
+Multimedia List
+1. JPEG Viewer
+
+Exit
+
+JPEG Viewer Control:
+Image Delay
+Start Slide Show
+
+Description
+Set display time for each picture in slide show. There are three options: Fast, Slow, and Normal.
+Enter Slide Show mode.
+
+Rotate Photo
+
+Rotate selected picture. (0/90/180/270).
+
+Back to Upper Folder
+
+Return to the upper folder.
+
+Back to Root Folder
+
+Return to root folder.
+
+Back To Browser
+
+Return to Browser mode. (Photo page with control menu.)
+
+Exit
+
+Exit JPEG Viewer and return to original source. (Browser with Control menu.)
+
+33
+
+Troubleshooting
+Condition
+No picture
+No picture
+Cannot receive any channels
+TV is locked to one channel
+Cannot receive or select
+The TV turns off
+No picture from some video
+Poor picture
+The quality of the images is not
+as good as what I saw at the
+store
+Double images or ghosts
+Only snow and noise appear on
+the screen
+Dotted lines or stripes
+No color/Dark picture/Color is not
+correct/The picture is too bright
+Noisy picture
+
+Explanation / Solution
+Check the Power Saving settings.
+Make sure the power cord is connected securely. Turn on the power of the TV.
+Check antenna/cable connections. Make sure the Cable setting is correct for your TV signal source.
+Perform Auto Program to add receivable channels that are not present in the TV’s memory.
+Perform Auto Program to add receivable channels that are not present in the channels TV’s memory.
+To receive or select cable channels, make sure that Cable in the Channel settings is set to On. To
+receive or select UHF channels over an antenna, make sure Cable is set to Off.
+Check if Sleep Timer is activated, or confirm the Duration setting of Timer automatically.
+Check PC Power Management in General Settings.
+Check the connection between the optional video equipment and the TV Sources.
+Press INPUT on the remote control.
+Select your desired input from the External Inputs list.
+
+Picture quality depends on the signal content. See Quick Setup Guide (supplied) to display the best
+possible picture for that signal.
+Check antenna/cable connections.
+Check the antenna location and direction.
+Check if the antenna is broken or bent; Check if the antenna has reached the end of its serviceable life.
+(3-5 years in normal use, 1-2 years at the seaside.)
+Keep the TV away from noise sources such as cars, motorcycles, or hair-dryers.
+If using 300 ohm twin lead, move the excess lead away from the TV or try using 75 ohm coaxial cable
+instead.
+Press PICTURE to select the desired Picture Mode; Adjust the Picture Mode options in the Picture
+settings.
+Make sure that the antenna is connected using a 75-ohm coaxial cable.
+Keep the antenna cable away from other connecting cords.
+To avoid TV interference, make sure to use an undamaged antenna cable.
+
+No sound/Noisy sound
+
+Good picture, no sound
+
+Audio noise
+
+disappears from the screen.
+Check the volume control. Press MUTE or VOL + so that
+Disconnect your headphones.
+For HDMI equipment, confirm that the audio output setting of the connected equipment is set to PCM.
+This TV's HDMI inputs support PCM 32, 44.1 and 48 kHz, 16, 20 and 24bits.
+Make sure that the antenna is connected using a 75-ohm coaxial cable.
+Keep the antenna cable away from other connecting cords.
+To avoid TV interference, make sure to use an undamaged antenna cable.
+
+PC Input
+
+No Picture / No Signal
+
+Poor Picture
+Wide Mode changes
+automatically
+
+Suddenly the picture gets smaller
+“Black box” on screen
+
+Black bands appear at the edges
+of the screen
+Condition
+PC Input
+Certain programs on DVD or
+other digital sources display a
+loss of detail, especially during
+fast-motion or dark scenes
+Remote control does not operate
+
+Confirm the PC is correctly connected to the TV with either the PC IN (with an HD15 cable) or with the HDMI IN.
+Ensure the output signal from the PC is one of the formats listed on page 18.
+Turn the PC off. Confirm the PC connection and restart the PC. Plug and play will auto-detect the TV
+and correctly set up PC timing.
+Verify PC Power Management is activated.
+Adjust the resolution. Adjust Pitch and Phase.
+The current Wide Mode setting is automatically replaced with the 4:3
+Default setting when you change the channel or video input, if 4:3 Default in the Screen settings is set
+to other than Off. If you want to lock in Wide Mode selected with WIDE on the remote control, set 4:3
+Default to Off in the Screen settings.
+Check the Auto Wide option in the Screen settings.
+The picture gets smaller during the commercials, this is due to the method the provider broadcasts their
+contents. When HD content channels switch to SD definition content (commercials), the picture may be
+small with a black border.
+You have selected a text option and no text is available. To turn off this feature, set the CC Display
+option to Off. If you were trying to select closed captioning, select CC1 instead of Text1-4.
+Some wide screen programs are filmed in aspect ratios that are greater than 16:9 (this is especially
+common with theatrical releases). Your TV will show these programs with black bands at the top and
+bottom of the screen. For more details, check the documentation that came with your DVD (or contact
+your program provider). Programs in 4:3 aspect ratio will have bands on left and right sides of the
+screen.
+Explanation / Solution
+This is due to the digital compression of the source content used by certain digital broadcasts and
+DVDs which may cause your TV’s screen to display less detail than usual, or cause artifacts (small
+blocks or dots, pixilation) to appear on your screen. These signal compressions are more visible and are
+dependent on the clarity and resolution of the television.
+Check the polarity of the batteries or replace the batteries.
+Point the remote control at the remote control sensor located at the front of the TV.
+Fluorescent lamps can interfere with your remote control operation; try turning off the fluorescent lamps.
+Keep the remote control sensor area clear from obstacles.
+
+34
+
+Dimensions & Specifications
+Model
+
+LE22H067 / LE24H067
+
+Panel size
+
+LE22H067: 546 mm diagonal (21.5” viewable)
+LE24H067: 598 mm diagonal (23.5” viewable)
+
+Resolution
+
+1920 x 1080
+
+TV System
+
+NTSC standard
+ATSC standard (8-VSB, Clear-QAM)
+
+Channel coverage
+
+VHF: 2 through 13
+UHF: 14 through 69
+Cable TV:
+Mild band (A - 8 through A - 1, A through I)
+Super band (J through W)
+Hyper band (AA through ZZ, AAA, BBB)
+Ultra band (65 through 94, 100 through 125)
+
+Speaker
+
+3Wx2
+
+Antenna impedance
+
+75Ω
+
+Power source
+
+120V
+
+Standby power consumption
+
+<1W
+
+Video/Audio Terminals
+
+Rear AV x1: S-Video/Video/Audio Input/Audio output.
+
+S-Video Input*
+
+Y: 1 V(p-p), 75 ohm, negative sync.
+C: 0.286 V(p-p) (burst signal), 75 ohm
+
+Video/Audio Input
+
+VIDEO: 1 V(p-p), 75 ohm, negative sync.
+AUDIO: 500mv (rms)
+
+Component Input
+
+Rear Component x1:
+Y: 1V(p-p), 75 ohm, including sync.
+Pr/Cr: ±0.35V(p-p), 75 ohm
+Pb/Cb: ±0.35V(p-p), 75 ohm
+AUDIO: 500mv (rms)
+
+HDMI Terminals
+
+HDMI INPUT: Rear HDMI x1; Side HDMI x1
+HDCP compliant
+E-EDID compliant
+
+VGA Terminals
+
+VGA INPUT:
+Rear VGA (D-SUB 15 Pin) Input x1
+E-EDID compliant
+Audio Input: Mini-jack for stereo (3.5Ø )
+
+Headphone
+
+Audio Output: Mini-jack for stereo (3.5Ø )
+
+SPDIF Output
+
+Optical Digital Audio Out jack.
+
+Size (W x H x D)
+(with base and stand) (mm)
+
+LE22H067: 527 x 395 x 150
+LE24H067: 579.2 x 419.7 x 160
+
+Weight
+
+LE22H067: 3.75 Kg (with stand) / 3.5 Kg (w/o stand and base)
+LE24H067: 4.2 Kg (with stand) / 3.9 Kg (w/o stand and base)
+
+Wall mount size
+
+LE22H067: 100 x 100 mm (Wall mount kit is not included)
+LE24H067: 100 x 100 mm (Wall mount kit is not included)
+
+Wall-Mount accessory
+
+Optional accessory and not included in standard package
+
+Equipment:
+Operation Temperature
+Storage Temperature
+
+35 ºC for moderate climates (Maximum ambient temperature)
+-20 ºC~50 ºC
+
+60Hz, 150W
+
+* S-Video Input
+You can connect your TV set to a high-resolution video source (such as Super VHS videocassette recorder, Laser Disc player, and DVD Home
+Theater Set) in order to provide maximum consumer viewing satisfaction.
+Note:
+ Designs and specifications are subject to change without notice.
+ This model may not be compatible with features and/or specifications that may be added in the future.
+
+35
+
+P
+
+Index
+
+Panel size, 35
+PC Connection, 14
+PC Setting, 28
+Personal, 25
+Phase, 10, 28, 34
+Picture Mode, 34
+Picture Setting, 26
+Power, 4, 5, 34
+Preset, 15, 26
+Presetting PC Mode, 15
+Presetting Video Mode, 15
+
+A
+Adaptive Contrast, 26
+Antenna, 6, 35
+Aspect Ratio, 26
+Audio, 25, 27, 34
+Audio Language, 27
+Audio Setting, 25, 27
+Audio Source, 27
+Auto Adjust, 28
+Auto Search, 23
+AVL, 27
+
+R
+Remote Control, 11, 16, 22, 24, 26, 34
+Reset All, 29
+Resolution, 15, 35
+
+B
+BACK, 11
+Backlight, 26
+Balance, 27
+Bass, 27
+B/L control, 29
+Brightness, 26
+
+S
+SAP, 11, 27
+Setting, 34
+Setup, 14, 15, 29, 32, 34
+Set-Up, 12
+Sharpness, 26
+Signal, 10, 13, 14, 15, 28, 34
+Size, 35
+Sleep, 11
+Sleep Timer, 29, 34
+Sound, 7, 8, 11, 25
+Sound Mode, 27
+Source, 11, 22, 34
+SPDIF, 10, 14, 27, 35
+Speaker, 27, 35
+Specifications, 35
+Speech, 25
+Standard, 11, 15, 26
+S-Video, 10, 14, 15, 30, 31, 35
+
+C
+Channel, 23, 24, 34
+Clock, 28
+Closed Captions, 29, 31
+Color, 26, 34
+Color Temp., 26
+COMP, 11
+Component, 10, 13
+Contrast, 26
+D
+DCR, 26, 29
+Device Auto Off, 32
+Device List, 32
+Device Menu Control, 32
+Dimensions, 35
+DISPLAY, 11
+
+T
+
+Eco, 11, 19, 26
+
+Tint, 26
+Treble, 27
+Troubleshooting, 34
+TV Auto On, 32
+
+F
+
+V
+
+Frequency, 15
+
+V-Chip, 11
+Video, 10, 15, 26, 35
+Vivid, 11, 19, 26
+VOL, 11, 25, 34
+Volume, 8, 25
+V. Position, 28
+
+E
+
+H
+HDMI, 10
+HDMI Control, 32
+Headphone Jack, 10
+H. Position, 28
+
+W
+I
+
+Wall-Mount, 3, 4, 12, 35
+
+Input Source, 22
+Y
+M
+
+YPbPr, 10, 11
+
+MENU, 11, 22, 23, 26, 27, 28, 29, 30, 32
+Menu Language, 29
+Menu timeout, 29
+MODE, 11
+MPAA, 11, 31
+MTS, 11
+Multi Language, 27
+Music, 25
+MUTE, 11, 25
+
+Z
+ZOOM, 11
+
+N
+Noise Reduction, 26
+
+36
+
+
