@@ -369,7 +369,9 @@ class Sidepanel extends React.Component {
 
         <div className="Speech" style={{ paddingLeft: "550px"}}>
           <Speech
-          styles={this.style}
+           
+          rate="0.5"
+            styles={this.style}
             text={this.state.mydata}
             textAsButton="true"
            displayText="PLAY"
