@@ -1,17 +1,17 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import "./index.css";
-import App1 from "./App1";
+//import "./index.css";
+import App from "./App.js";
 import PdfView from "./PdfView";
 import * as serviceWorker from "./serviceWorker";
 import PdfUpload from "./PdfUpload";
 import Dum from "./Dum";
 import ReadAloud from "./ReadAloud";
-import Sidepanel from "./Sidepanel";
+import Sidepanel from "./Sidepanel.js";
 
 ReactDOM.render(
   <React.StrictMode>
-    <App1/>
+    <App/>
   </React.StrictMode>,
   document.getElementById("root")
 );
