@@ -9,6 +9,7 @@ import style1 from "./SpeechStyle";
 import Cards from "./Cards.js";
 import Card from "./CardUrls.js";
 import "./Sidepanel.css";
+import SUP from "./ScroolToUp";
 
 import ImageComp from "./ImageComponent.js";
 //import Img from "./imageUrls.js";
@@ -125,6 +126,7 @@ class Sidepanel extends React.Component {
           <div className="collapse text-area " id="multiCollapseExample2">
             <h2>{this.state.mydata}</h2>
           </div>
+          <SUP />
         </div>
       </>
     );
