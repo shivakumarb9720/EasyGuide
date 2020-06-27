@@ -5,7 +5,7 @@ class Home extends React.Component {
   render() {
     return (
       <div>
-        <div className="container">
+        {/* <div className="container">
           <div className="row justify-content-md-center pt-3 pb-2">
             <div className="col-md-auto pd-3">
               <img src={logo} height="90px" alt="logo" />
@@ -16,7 +16,7 @@ class Home extends React.Component {
               <h2>Helps in usage of Appliances.</h2>
             </div>
           </div>
-        </div>
+        </div> */}
         <Slides />
       </div>
     );

@@ -5,8 +5,16 @@ export default class SUP extends React.Component {
     render() {
         return (
             <div>
-                <ScrollUpButton />
-                //This is all you need to get the default view working
+                <ScrollUpButton 
+                    StopPosition={0}
+                    ShowAtPosition={150}
+                    EasingType='easeOutCubic'
+                    AnimationDuration={500}
+                    ContainerClassName='ScrollUpButton__Container'
+                    TransitionClassName='ScrollUpButton__Toggled'
+                    // style={{color:"#1b262c";}}
+                    ToggledStyle={{}}/>
+                
             </div>
         );
     }

@@ -9,11 +9,10 @@ import style1 from "./SpeechStyle";
 import Cards from "./Cards.js";
 import Card from "./CardUrls.js";
 import "./Sidepanel.css";
-import SUP from "./ScroolToUp";
-
-import ImageComp from "./ImageComponent.js";
+import {Element} from "react-scroll";
+import {Opentxt, ImageComp} from "./ImageComponent.js";
 //import Img from "./imageUrls.js";
-
+import SUP from "./ScroolToUp.js"
 class Sidepanel extends React.Component {
   constructor(props) {
     super(props);
@@ -102,6 +101,7 @@ class Sidepanel extends React.Component {
               </div>
           </div>
           </div>
+          
         </div>
         <br />
         <div className="container">
@@ -122,15 +122,18 @@ class Sidepanel extends React.Component {
           </div>
         </div>
         <br/>
-        <div className="container pt-2">
-          <div className="collapse text-area " id="multiCollapseExample2">
-            <h2>{this.state.mydata}</h2>
-          </div>
-          <SUP />
+        {/* <Element name="test1" className="element"> 
+           */}
+       
+       <div>
+          <Opentxt data={this.state.mydata}/>
         </div>
+        
+        
+
       </>
     );
   }
 }
-//ReactDOM.render(<Sidepanel/>, document.getElementById('root'));
+
 export default Sidepanel;
