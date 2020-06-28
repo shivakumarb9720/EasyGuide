@@ -1,3 +1,5 @@
+import { ImageIcon } from "@primer/octicons-react";
+
 const style1 = {
     container: {
       width: "100%"
@@ -11,12 +13,12 @@ const style1 = {
         backgroundColor: "GhostWhite"
       },
       button: {
-        width: "50px",
-        height: "50px",
+        width: "60px",
+        height: "60px",
         cursor: "pointer",
         pointerEvents: "none",
   
-        backgroundColor: "silver",
+        backgroundColor: "green",
         border: "solid 1px rgba(255,255,255,1)",
         borderRadius: 100
       }
@@ -45,7 +47,7 @@ const style1 = {
         height: "50px",
         cursor: "pointer",
         pointerEvents: "none",
-  
+        
         backgroundColor: "rgb(233, 182, 14)",
         border: "solid 1px rgba(255,255,255,1)",
         borderRadius: 500
@@ -60,10 +62,11 @@ const style1 = {
         height: "50px",
         cursor: "pointer",
         pointerEvents: "none",
-  
-        backgroundColor: "green",
-        border: "solid 1px rgba(255,255,255,1)",
+        backgroundColor: "silver",
+        borderColor: "solid 1px rgba(255,255,255,1)",
+        outline: 'none',
         borderRadius: 500
+       
       }
     }
   };

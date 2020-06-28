@@ -1,16 +1,10 @@
 import React from "react";
-import ReactDOM from "react-dom";
-import { Component } from "react";
 import Speech from "react-speech";
 import firebase from "./firebase";
-import { Document } from "react-pdf";
-import { Router, Link } from "react-router-dom";
 import style1 from "./SpeechStyle";
-import Cards from "./Cards.js";
 import Card from "./CardUrls.js";
 import "./Sidepanel.css";
 import SUP from "./ScroolToUp";
-
 import ImageComp from "./ImageComponent.js";
 //import Img from "./imageUrls.js";
 
@@ -29,7 +23,7 @@ class Sidepanel extends React.Component {
 
   openPdf = (e) => {
     let storageRef = firebase.storage().ref();
-    let spaceRef = storageRef.child("appliances/" + e.target.name);
+   // let spaceRef = storageRef.child("appliances/" + e.target.name);
     storageRef
       .child("appliances/" + e.target.name)
       .getDownloadURL()
@@ -44,7 +38,7 @@ class Sidepanel extends React.Component {
 
   openTxt = (e) => {
     let storageRef = firebase.storage().ref();
-    let spaceRef = storageRef.child(e.target.name);
+    //let spaceRef = storageRef.child(e.target.name);
     storageRef
       .child(e.target.name)
       .getDownloadURL()
@@ -93,9 +87,10 @@ class Sidepanel extends React.Component {
       <>
         <div className="container-fluid ">
           <div class="alert alert-info mt-3" role="alert">
-          <strong>Note: </strong>For PDF Click on the Image and For Text Click button
+          <strong>Note: </strong>For PDF press on the Image and for text press on "Click Me" button
           </div>
-
+          <script type="text/JavaScript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+          <div id="google_translate_element"></div> 
           <div className="Imagepage">
             <div className="container mb-4 mt-5">
               <div className="row ">{Card.map(i => (this.createImgcomp(i)))}
@@ -112,19 +107,20 @@ class Sidepanel extends React.Component {
                   styles={style1}
                   text={this.state.mydata}
                   textAsButton="true"
-                  displayText="PLAY"
+                  displayText="START"
                   stop="true"
                   pause="true"
                   resume="true"
                 />
-              </div>
-            </div>
+                 
+                </div>
+             </div>
           </div>
         </div>
         <br/>
         <div className="container pt-2">
           <div className="collapse text-area " id="multiCollapseExample2">
-            <h2>{this.state.mydata}</h2>
+            <h3>{this.state.mydata}</h3>
           </div>
           <SUP />
         </div>

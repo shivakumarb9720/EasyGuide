@@ -6,7 +6,7 @@ export default class SUP extends React.Component {
         return (
             <div>
                 <ScrollUpButton />
-                //This is all you need to get the default view working
+              
             </div>
         );
     }

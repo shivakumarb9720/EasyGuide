@@ -1,5 +1,5 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+//import ReactDOM from 'react-dom';
 import { Component } from 'react';
 import firebase from './firebase';
 
@@ -26,13 +26,13 @@ class PdfUpload extends Component{
         const UploadTask=storageRef.put(file);
         UploadTask.on(firebase.storage.TaskEvent.STATE_CHANGED,
         ()=>{
-            let downloadURL=UploadTask.snapshot.downloadURL
+            //let downloadURL=UploadTask.snapshot.downloadURL
         })
 
     }
     openpdf=()=>{
         let storageRef=firebase.storage().ref()
-        let spaceRef=storageRef.child('appliances/'+this.state.files[0].name)
+        //let spaceRef=storageRef.child('appliances/'+this.state.files[0].name)
         storageRef.child('appliances/'+this.state.files[0].name).getDownloadURL().then((url)=>{
             console.log(url)
             

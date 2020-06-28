@@ -1,8 +1,6 @@
 import React, { Component } from "react";
-import ReactDOM from "react-dom";
-import { Document, Page, pdfjs, pageNumber } from "react-pdf";
 import firebase from "./firebase";
-import { Link } from "react-router-dom";
+
 
 
 class PdfView extends Component {
@@ -18,7 +16,7 @@ class PdfView extends Component {
  
   dum=()=>{
   
-    fetch('https://firebasestorage.googleapis.com/v0/b/easyguide-89a3.appspot.com/o/TVtxt.txt?alt=media&token=5319a73c-cb55-4b4f-9cf6-2bd11f065aa6')
+    fetch('https://google.co.in')
     .then(
       (response)=>{
         if (response.status !== 200) {
@@ -51,7 +49,7 @@ class PdfView extends Component {
 
   openTxt = (e) => {
     let storageRef = firebase.storage().ref();
-    let spaceRef = storageRef.child( e.target.name);
+    //let spaceRef = storageRef.child( e.target.name);
     storageRef
       .child(e.target.name)
       .getDownloadURL()

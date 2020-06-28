@@ -15,6 +15,7 @@ class Home extends React.Component {
             <div className="col-md-auto pb-3">
               <h2>Helps in usage of Appliances.</h2>
             </div>
+           
           </div>
         </div>
         <Slides />
