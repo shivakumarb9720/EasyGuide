@@ -6,8 +6,10 @@ import Card from "./CardUrls.js";
 import "./Sidepanel.css";
 import SUP from "./ScroolToUp";
 import ImageComp from "./ImageComponent.js";
+import {Element} from "react-scroll";
+//import {Opentxt, ImageComp} from "./ImageComponent.js";
 //import Img from "./imageUrls.js";
-
+import SUP from "./ScroolToUp.js"
 class Sidepanel extends React.Component {
   constructor(props) {
     super(props);
@@ -97,6 +99,7 @@ class Sidepanel extends React.Component {
               </div>
           </div>
           </div>
+          
         </div>
         <br />
         <div className="container">
@@ -123,10 +126,18 @@ class Sidepanel extends React.Component {
             <h3>{this.state.mydata}</h3>
           </div>
           <SUP />
+        {/* <Element name="test1" className="element"> 
+           */}
+       
+       <div>
+          <Opentxt data={this.state.mydata}/>
         </div>
+       </div> 
+        
+
       </>
     );
   }
 }
-//ReactDOM.render(<Sidepanel/>, document.getElementById('root'));
+
 export default Sidepanel;
