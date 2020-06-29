@@ -63,12 +63,14 @@ function ImageComp(props) {
           <button
           name={props.btnName}
           onClick={(e)=>{
+
             props.btnClick(e);
             scrollTo();
-           
-         }
+           }
         }
             type="button" /*data-toggle="collapse" data-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2"*/ name={props.btnName} className="btn text-light">
+
+
             
             Click Me
         
@@ -89,7 +91,9 @@ function Opentxt(props2){
     <div>
     <Element name="myScrollToElement" className="element">
       <div className="container pt-2">
+
            <div /*className="collapse text-area" id="multiCollapseExample2"*/> 
+
             <h4>{props2.data}</h4>
           </div>
           <SUP />
