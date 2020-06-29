@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import firebase from "./firebase";
+//import firebase from "./firebase";
 import Speech from "react-speech";
 
 class ReadAloud extends React.Component {
@@ -26,24 +26,24 @@ class ReadAloud extends React.Component {
             backgroundColor: 'GhostWhite'
         },
         button: {
-            width: '30',
-            height: '30',
+            width: '30px',
+            height: '30px',
             cursor: 'pointer',
             pointerEvents: 'none',
             outline: 'none',
-            backgroundColor: 'red',
+            backgroundColor: "red",
             border: 'solid 1px rgba(255,255,255,1)',
             borderRadius: 6
         }
     },
     stop: {
         hover: {
-            backgroundColor: 'GhostWhite'
+            backgroundColor: 'blue'
         },
         button: {
           
-            width: '34',
-            height: '34',
+            width: '34px',
+            height: '34px',
             cursor: 'pointer',
             pointerEvents: 'none',
             outline: 'none',
@@ -57,8 +57,8 @@ class ReadAloud extends React.Component {
             backgroundColor: 'GhostWhite'
         },
         button: {
-            width: '34',
-            height: '34',
+            width: '34px',
+            height: '34px',
             cursor: 'pointer',
             pointerEvents: 'none',
             outline: 'none',
@@ -72,8 +72,8 @@ class ReadAloud extends React.Component {
             backgroundColor: 'GhostWhite'
         },
         button: {
-            width: '34',
-            height: '34',
+            width: '34px',
+            height: '34px',
             cursor: 'pointer',
             pointerEvents: 'none',
             outline: 'none',

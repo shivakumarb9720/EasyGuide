@@ -1,18 +1,11 @@
 import React from "react";
-import ReactDOM from "react-dom";
-import { Component } from "react";
 import Speech from "react-speech";
 import firebase from "./firebase";
-import { Document } from "react-pdf";
-import { Router, Link } from "react-router-dom";
 import style1 from "./SpeechStyle";
-import Cards from "./Cards.js";
 import Card from "./CardUrls.js";
 import "./Sidepanel.css";
-import {Element} from "react-scroll";
 import {Opentxt, ImageComp} from "./ImageComponent.js";
-//import Img from "./imageUrls.js";
-import SUP from "./ScroolToUp.js"
+
 class Sidepanel extends React.Component {
   constructor(props) {
     super(props);
@@ -28,7 +21,7 @@ class Sidepanel extends React.Component {
 
   openPdf = (e) => {
     let storageRef = firebase.storage().ref();
-    let spaceRef = storageRef.child("appliances/" + e.target.name);
+    //let spaceRef = storageRef.child("appliances/" + e.target.name);
     storageRef
       .child("appliances/" + e.target.name)
       .getDownloadURL()
@@ -43,9 +36,10 @@ class Sidepanel extends React.Component {
 
   openTxt = (e) => {
     let storageRef = firebase.storage().ref();
-    let spaceRef = storageRef.child(e.target.name);
+    //let spaceRef = storageRef.child(e.target.name);
+    
     storageRef
-      .child(e.target.name)
+      .child(e.target.getAttribute('name'))
       .getDownloadURL()
       .then((url) => {
         fetch(url)
@@ -92,7 +86,7 @@ class Sidepanel extends React.Component {
       <>
         <div className="container-fluid ">
           <div class="alert alert-info mt-3" role="alert">
-          <strong>Note: </strong>For PDF Click on the Image and For Text Click button
+          <strong style={{color:"black"}}>Note: </strong>For PDF press on the Image and for text press on "Click Me" button.
           </div>
 
           <div className="Imagepage">
@@ -105,6 +99,7 @@ class Sidepanel extends React.Component {
         </div>
         <br />
         <div className="container">
+          
           <div className="row justify-content-md-center pt-3 pb-2">
             <div className="col-md-auto">
               <div className="Speech" >
@@ -112,7 +107,7 @@ class Sidepanel extends React.Component {
                   styles={style1}
                   text={this.state.mydata}
                   textAsButton="true"
-                  displayText="PLAY"
+                  displayText="Start"
                   stop="true"
                   pause="true"
                   resume="true"
@@ -120,13 +115,14 @@ class Sidepanel extends React.Component {
               </div>
             </div>
           </div>
+          <div style={{paddingLeft:"170px",fontWeight:"bold"}}>Play</div>
         </div>
         <br/>
         {/* <Element name="test1" className="element"> 
            */}
        
        <div>
-          <Opentxt data={this.state.mydata}/>
+       <Opentxt data={this.state.mydata}/>
         </div>
         
         
@@ -137,3 +133,4 @@ class Sidepanel extends React.Component {
 }
 
 export default Sidepanel;
+

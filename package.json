@@ -26,7 +26,8 @@
     "react-scroll": "^1.7.16",
     "react-scroll-up-button": "^1.6.4",
     "react-speech": "^1.0.2",
-    "reactjs-pdf-reader": "^1.0.12"
+    "reactjs-pdf-reader": "^1.0.12",
+    "start": "^5.1.0"
   },
   "scripts": {
     "start": "react-scripts start",

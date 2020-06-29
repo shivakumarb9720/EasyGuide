@@ -1,11 +1,11 @@
 import React from "react";
-import ReactDOM from "react-dom";
+/*import ReactDOM from "react-dom";
 import { Component } from "react";
 import Speech from "react-speech";
 import firebase from "./firebase";
 import { Document } from "react-pdf";
 import { Router, Link } from "react-router-dom";
-import style1 from "./SpeechStyle";
+import style1 from "./SpeechStyle";*/
 
 export default function Cards(props) {
     

@@ -12,16 +12,14 @@ import {
   scroller
 } from "react-scroll";
 import SUP from "./ScroolToUp.js"
-//const wd={width:18};
-function ImageComp(props) {
-  const u=props.btnClick;
 
-  console.log(props);
-  function t(o){
-    
-    
-  }
-  
+
+
+
+
+function ImageComp(props) {
+ 
+
   function scrollTo() {
     // {props.btnName.props.btnClick()};
     
@@ -43,11 +41,10 @@ function ImageComp(props) {
               alt={props.alt}
               name={props.imgName}
               onClick={props.imgClick}
-              //{props.height1}
+              
 
             />
-            {/* <div class="mask mask-1"></div>
-            <div class="mask mask-2"></div> */}
+        
             <div class="overlay">
 
               <p>hi</p>
@@ -63,7 +60,15 @@ function ImageComp(props) {
           <Link
             to="myScrollToElement" containerId="containerElement"
                   >
-          <button onClick={(props.btnClick)} type="button" data-toggle="collapse" data-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2" name={props.btnName} className="btn text-light">
+          <button
+          name={props.btnName}
+          onClick={(e)=>{
+            props.btnClick(e);
+            scrollTo();
+           
+         }
+        }
+            type="button" /*data-toggle="collapse" data-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2"*/ name={props.btnName} className="btn text-light">
             
             Click Me
         
@@ -84,8 +89,8 @@ function Opentxt(props2){
     <div>
     <Element name="myScrollToElement" className="element">
       <div className="container pt-2">
-          <div className="collapse text-area " id="multiCollapseExample2">
-            <h2>{props2.data}</h2>
+           <div /*className="collapse text-area" id="multiCollapseExample2"*/> 
+            <h4>{props2.data}</h4>
           </div>
           <SUP />
         </div>

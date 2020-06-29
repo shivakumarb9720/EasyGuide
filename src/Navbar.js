@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { Navbar } from "react-bootstrap";
 import "./Navigation.css";
 import {ListUnorderedIcon } from '@primer/octicons-react'
-import ttl from "./Capture.PNG";
+//import ttl from "./Capture.PNG";
 import ttl1 from "./Capture4.PNG";
 
 export default function Navbar1() {
@@ -15,7 +15,12 @@ export default function Navbar1() {
           <Link to="/" >
             <img src={ttl1} className=" rounded" height="50px" shape="rounded"></img>
           </Link>
-          </div>
+         </div>
+         <div style={{float:"right"}}>
+          <script type="text/JavaScript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+          <div id="google_translate_element"></div>
+        </div>
+
         </Navbar.Brand>
         <button
           className="navbar-toggler "
@@ -28,6 +33,8 @@ export default function Navbar1() {
         >
           
           <ListUnorderedIcon size='medium' />
+        
+
         </button>
 
         <div className="collapse navbar-collapse" id="navbarTogglerDemo02">
@@ -37,11 +44,7 @@ export default function Navbar1() {
                 Home <span className="sr-only">(current)</span>
               </Link>
             </li>
-            {/* <li className="nav-item pl-4 ml-4"> 
-              <Link> className="nav-link" to="/About">
-                About
-              </Link>
-            </li>*/}
+           
             <li className="nav-item pl-4 ml-4"> 
               <Link className="nav-link" to="/Sidepanel">
                 Appliances
@@ -54,3 +57,7 @@ export default function Navbar1() {
   );
 }
 
+/*
+ 
+        
+*/
