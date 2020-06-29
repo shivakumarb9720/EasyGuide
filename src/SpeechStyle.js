@@ -17,7 +17,7 @@ const style1 = {
         height: "60px",
         cursor: "pointer",
         pointerEvents: "none",
-  
+        
         backgroundColor: "green",
         border: "solid 1px rgba(255,255,255,1)",
         borderRadius: 100
@@ -43,8 +43,8 @@ const style1 = {
         backgroundColor: "GhostWhite"
       },
       button: {
-        width: "50px",
-        height: "50px",
+        width: "40px",
+        height: "40px",
         cursor: "pointer",
         pointerEvents: "none",
         
@@ -58,8 +58,8 @@ const style1 = {
         backgroundColor: "GhostWhite"
       },
       button: {
-        width: "50px",
-        height: "50px",
+        width: "30px",
+        height: "30px",
         cursor: "pointer",
         pointerEvents: "none",
         backgroundColor: "silver",

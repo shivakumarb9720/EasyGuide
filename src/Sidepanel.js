@@ -4,12 +4,8 @@ import firebase from "./firebase";
 import style1 from "./SpeechStyle";
 import Card from "./CardUrls.js";
 import "./Sidepanel.css";
-import SUP from "./ScroolToUp";
-import ImageComp from "./ImageComponent.js";
-import {Element} from "react-scroll";
-//import {Opentxt, ImageComp} from "./ImageComponent.js";
-//import Img from "./imageUrls.js";
-import SUP from "./ScroolToUp.js"
+import {Opentxt, ImageComp} from "./ImageComponent.js";
+
 class Sidepanel extends React.Component {
   constructor(props) {
     super(props);
@@ -25,7 +21,7 @@ class Sidepanel extends React.Component {
 
   openPdf = (e) => {
     let storageRef = firebase.storage().ref();
-   // let spaceRef = storageRef.child("appliances/" + e.target.name);
+    //let spaceRef = storageRef.child("appliances/" + e.target.name);
     storageRef
       .child("appliances/" + e.target.name)
       .getDownloadURL()
@@ -41,8 +37,9 @@ class Sidepanel extends React.Component {
   openTxt = (e) => {
     let storageRef = firebase.storage().ref();
     //let spaceRef = storageRef.child(e.target.name);
+    
     storageRef
-      .child(e.target.name)
+      .child(e.target.getAttribute('name'))
       .getDownloadURL()
       .then((url) => {
         fetch(url)
@@ -89,10 +86,9 @@ class Sidepanel extends React.Component {
       <>
         <div className="container-fluid ">
           <div class="alert alert-info mt-3" role="alert">
-          <strong>Note: </strong>For PDF press on the Image and for text press on "Click Me" button
+          <strong style={{color:"black"}}>Note: </strong>For PDF press on the Image and for text press on "Click Me" button.
           </div>
-          <script type="text/JavaScript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-          <div id="google_translate_element"></div> 
+
           <div className="Imagepage">
             <div className="container mb-4 mt-5">
               <div className="row ">{Card.map(i => (this.createImgcomp(i)))}
@@ -103,6 +99,7 @@ class Sidepanel extends React.Component {
         </div>
         <br />
         <div className="container">
+          
           <div className="row justify-content-md-center pt-3 pb-2">
             <div className="col-md-auto">
               <div className="Speech" >
@@ -110,29 +107,24 @@ class Sidepanel extends React.Component {
                   styles={style1}
                   text={this.state.mydata}
                   textAsButton="true"
-                  displayText="START"
+                  displayText="Start"
                   stop="true"
                   pause="true"
                   resume="true"
                 />
-                 
-                </div>
-             </div>
+              </div>
+            </div>
           </div>
+          <div style={{paddingLeft:"170px",fontWeight:"bold"}}>Play</div>
         </div>
         <br/>
-        <div className="container pt-2">
-          <div className="collapse text-area " id="multiCollapseExample2">
-            <h3>{this.state.mydata}</h3>
-          </div>
-          <SUP />
         {/* <Element name="test1" className="element"> 
            */}
        
        <div>
-          <Opentxt data={this.state.mydata}/>
+       <Opentxt data={this.state.mydata}/>
         </div>
-       </div> 
+        
         
 
       </>
@@ -141,3 +133,4 @@ class Sidepanel extends React.Component {
 }
 
 export default Sidepanel;
+
